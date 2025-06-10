@@ -1,7 +1,3 @@
-Alright, let's talk about **Azure Kubernetes Service (AKS)** — like two developers having a real conversation over chai and biscuits. No jargon-heavy explanations, no robotic structure. Just plain, simple English.
-
----
-
 ## 🧠 What is AKS?
 
 So you’ve heard the word **Kubernetes** floating around, right? And maybe you've also heard of **Docker**, containers, microservices — all that modern cloud stuff.
