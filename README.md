@@ -234,4 +234,4 @@ If you're working with modern cloud-native apps, knowing AKS will definitely giv
 
 And now, if someone asks you about Kubernetes or AKS in an interview, you’ll know exactly what to say — and sound like someone who actually uses this stuff every day 😎
 
-Want me to show you a full working example of a CI/CD pipeline to AKS using GitHub Actions or Azure DevOps? Just ask!
+
